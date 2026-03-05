@@ -1,0 +1,19 @@
+#python cache
+__pycache__/
+*.pyc
+
+#environment files
+.env
+
+#dataset folders
+data/raw/
+data/processed/
+
+
+#notebook checkpoint
+.ipynb_checkpoints/
+
+
+# OS files
+.DS_Store
+Thumbs.db
